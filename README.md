@@ -1,5 +1,7 @@
 # phi-model
 
+NOTE: I read my .md's in vscode, so if any .md formatting is disgusting, that's why.
+
 ## Idea
 
 A model covered by a HIPAA BAA costs far more than a regular model. Mixing the two could lower the overall cost, but only if PHI never reaches the model without the BAA.
